@@ -1,15 +1,13 @@
 # Переменные для подключения к PostgreSQL
 POSTGRES_CONN_ID = "stg_conn"
 POSTGRES_CONN_TYPE = "postgres"
-POSTGRES_HOST = "localhost"
+POSTGRES_HOST = "postgres"
 POSTGRES_LOGIN = "ibbvs"
 POSTGRES_PASSWORD = "12345"
 POSTGRES_PORT = "5432"
 POSTGRES_SCHEMA = "database"
 POSTGRES_DB_NAME = "stg_hh"
 POSTGRES_TABLE_NAME = "stg_vacancies"
-
-
 
 
 # URL для доступа к API вакансий на сайте hh.ru
